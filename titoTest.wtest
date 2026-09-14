@@ -13,4 +13,16 @@ describe "Tests de Tito" {
     tito.consumir(10, whisky)
     assert.equals(10, tito.dosisConsumida())
   }
+
+
+
+
+
+
+
+
+
+
+
+
 }
